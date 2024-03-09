@@ -1,5 +1,8 @@
 # mIRC-Mentions-Script
-Add to remote.ini
+**Instructions**
+1.Add to remote.ini
+
+2.change the extra nick variation check in the if conditional.Otherwise it will work for anyone saying "theo" too.
 
 This script notifies if your nick / name was mentioned in any channel.
 
